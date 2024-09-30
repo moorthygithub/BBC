@@ -1,0 +1,26 @@
+/* .imageContainer {
+  display: block; 
+}
+
+@media (max-width: 599px) {
+  .imageContainer {
+    display: none; 
+  }
+}
+
+.profileImage {
+  max-width: 100%;
+  border-radius: 8px;
+  height: 200px;
+} */
+.productServicesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 10px;
+}
+
+.productItem {
+  display: flex;
+  align-items: center;
+  font-size: 1rem;
+}

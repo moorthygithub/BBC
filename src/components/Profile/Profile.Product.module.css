@@ -1,0 +1,35 @@
+/* ProfileProduct.module.css */
+.wpo-project-area {
+  position: relative;
+}
+
+.wpo-project-wrap {
+  position: relative;
+}
+
+.slider-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px; 
+}
+
+.prev-arrow,
+.next-arrow {
+  background: rgba(0, 0, 0, 0.5);
+  border: none;
+  border-radius: 50%;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.prev-arrow {
+  margin-right: 10px;
+}
+
+.next-arrow {
+  margin-left: 10px;
+}
+.slickDots {
+  display: none !important;
+}

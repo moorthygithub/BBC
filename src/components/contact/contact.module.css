@@ -1,0 +1,199 @@
+.card {
+  width: 100%;
+  padding: 20px;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  font-size: 34px;
+  color: #000;
+  font-weight: 500;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  padding: 10px;
+}
+
+.field {
+  width: 100%;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.field > *:first-child {
+  height: 40px;
+  padding: 5px;
+}
+
+.submitButton {
+  margin-top: 60px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.submitButton > *:first-child {
+  width: 40%;
+  padding: 12px;
+  background-color: #41b362;
+  border-radius: 40px;
+  text-align: end;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.contact-container-1 {
+  text-align: center;
+  height: 180px;
+  width: 130%;
+  border-radius: 5px;
+  background: #fff;
+  padding: 20px 15px 15px 15px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.contact-container-2 {
+  height: 200px;
+  text-align: center;
+  width: 130%;
+  border-radius: 5px;
+  background: #fff;
+  padding: 20px 15px 15px 15px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.contact-container-3 {
+  text-align: center;
+  width: 130%;
+  border-radius: 5px;
+  background: #fff;
+  padding: 20px 15px 15px 15px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+}
+
+.contact-container-1 p {
+  margin-bottom: 20px;
+  color: #888;
+  font-size: 16px;
+  font-family: inter, sans-serif;
+  font-style: initial;
+  overflow: hidden;
+  font-weight: 500;
+}
+.contact-container-2 p {
+  cursor: pointer;
+  margin-bottom: 20px;
+  color: #888;
+  font-size: 16px;
+  font-family: inter, sans-serif;
+  font-style: initial;
+  overflow: hidden;
+  font-weight: 500;
+}
+.contact-container-3 p {
+  cursor: pointer;
+  margin-bottom: 20px;
+  color: #888;
+  font-size: 16px;
+  font-family: inter, sans-serif;
+  font-style: initial;
+  overflow: hidden;
+  font-weight: 500;
+}
+
+.contactNumber {
+  color: #888;
+  text-decoration: none;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: inter, sans-serif;
+}
+
+.emailLink {
+  color: #888;
+  text-decoration: none;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: inter, sans-serif;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1024px) {
+  .contact-container-1,
+  .contact-container-2,
+  .contact-container-3 {
+    width: 130%;
+    height: 160px;
+  }
+  .contactNumber {
+    font-size: 12px;
+  }
+  .emailLink {
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 950px) {
+  .contact-container-1,
+  .contact-container-2,
+  .contact-container-3 {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .contact-container-1,
+  .contact-container-2,
+  .contact-container-3 {
+    width: 100%;
+  }
+  .contactNumber {
+    font-size: 16px;
+  }
+  .emailLink {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .submitButton > *:first-child {
+    width: 60%;
+    padding: 12px;
+    background-color: #41b362;
+    border-radius: 40px;
+    text-align: end;
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .contact-container-1,
+  .contact-container-2,
+  .contact-container-3 {
+    width: 100%;
+  }
+  .contact-container-1,
+  .contact-container-2 {
+    height: 200px;
+  }
+
+  .contact-container-3 {
+    height: 150px;
+  }
+  .contactNumber {
+    font-size: 14px;
+  }
+}

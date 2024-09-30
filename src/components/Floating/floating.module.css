@@ -1,0 +1,23 @@
+.smothscroll2 {
+    position: fixed;
+    bottom: 10px;
+    left: 30px;
+    list-style: none;
+    z-index: 99;
+  }
+  
+  .smothscroll2 img {
+    width: 150px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .smothscroll2 img:hover {
+    transform: scale(1.1); 
+  }
+  
+  @media (max-width: 767px) {
+    .smothscroll2 img {
+      width: 90px;
+    }
+  }
+  

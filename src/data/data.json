@@ -1,0 +1,192 @@
+{
+  "Header": {
+    "title": "YOUR MOST TRUSTED BUSINESS PARTNER ",
+    "paragraph": "We provide expertise, connections and cultural awareness to help your organizations reach new markets and make successful deals"
+  },
+  "About": {
+    "paragraph": "The new digital world is very different from the old traditional business world. Advantage of this world is only enjoyed by large multiple chains of stores and online giant sellers. The small and medium business persons are slowly and surely suffering and losing out. In such a scenario the need was to fight back with these giants collectively hence the thought of forming a decent and family type businesses group came to Mr. Bhupendra Kotwal, Mr. Umesh Tulsiyan and Mr. Narendra Gehlot who took the lead and started consulting and convincing business friends who not only joined the mission but supported the idea. Purpose of the group is simple. Give and take referrals for business to boost business of each other. Give the best services and rates with priority to the referral business. This will make the group and its members popular and finally winning from the digital competition.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+
+  "Member": {
+    "paragraph": "Our members are at the heart of our success. We are proud to partner with individuals and businesses who share the common goal of mutual growth and collaboration. Each member is a trusted and verified professional, ensuring the highest quality services and a commitment to excellence.",
+    "Benefits": [
+      "Collaborate with trusted professionals",
+      "Grow your business with referrals",
+      "Gain exclusive access to services",
+      "Be part of a supportive community"
+    ],
+    "Roles": [
+      "Business owners",
+      "Entrepreneurs",
+      "Service providers",
+      "Freelancers"
+    ]
+  },
+
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-handshake",
+      "name": "Channal Partner",
+      "text": "You will get more than 60 saleing partners for your product and services. which will be boosting and take your business to new heights"
+    },
+    {
+      "icon": "fa fa-check",
+      "name": "Trusted and Tested",
+      "text": "As per our group rules whichever product or services referred to you are server by our trusted members and are the best in quality and price"
+    },
+    {
+      "icon": "fa fa-purse",
+      "name": "Pocket friendly",
+      "text": "To become a member there is a very small fees charged. The only investment to boost your business is you"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "title": "Get In Touch",
+    "address": "#763 , 16th Main BSK 2nd Stage, Bengaluru 560 070",
+    "number1": "9341214936",
+    "number2": "9741141114",
+    "number3": "9341666007",
+
+    "phonename1": "BHUPENDRA KOTWAL - 93412 14936",
+    "phonename2": "NARENDAR GEHLOT - 97411 41114",
+    "phonename3": "UMESH TULSYAN - 93416 66007",
+    "email": "businessboostersclub@gmail.com",
+    "facebook": "https://www.facebook.com/businessboosterclub2018/",
+    "mobile": "https://play.google.com/store/apps/details?id=com.bbc.agsolutions&pcampaignid=web_share",
+    "youtube": "https://www.youtube.com/@BusinessboostersclubBangalore"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Join us",
+      "text": "We all are here to develop and boost businesses of group members. We trust each other and help each other to grow",
+      "path": "/about"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Find a Services",
+      "text": "Services/Businesses referred to you would be given to you by our trusted members would be of best quality and price ",
+      "path": "/services"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Login",
+      "text": "Already Registered User? Click here to login. You can update your details here.",
+      "href": "https://login.businessboosters.club/login",
+      "target": "_blank"
+    }
+  ]
+}
